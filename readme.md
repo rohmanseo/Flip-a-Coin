@@ -1,7 +1,7 @@
-This is a gambling simulation. You know, casino always has an edge over gambler.
-That's why casino keep making money and gambler keep loosing money.
+This is a gambling simulation. You know, the casino is always has an edge over the gambler.
+That's why the casino keep making money and the gambler keep loosing money.
 
-After long run, I tried to simulate 1.000.000 bets, and here is what I got :
+After long run, let's say 1.000.000 bets, and here is what I got :
 
 `++++++++++++++++++++++`
 
@@ -17,4 +17,4 @@ After long run, I tried to simulate 1.000.000 bets, and here is what I got :
 
 `++++++++++++++++++++++`
 
-I tried several times. However, the result is still the same. My win probability always close to 50%. Then, because of casino has an edge over me, I lose my money.
+I tested over and over again. However, the result is still the same. My win probability was always close to 50%. Then, because of the casino has an edge over me, I lose my money.
